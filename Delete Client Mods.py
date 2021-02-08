@@ -15,8 +15,7 @@ client_mods = ["soundsystemreloader", "FpsReducer", "jeivillagers", "dynamistics
                "BetterPlacement", "ChatFlow", "potiondescriptions", "hiddenarmor", "InGameInfoXML", "memorycleaner",
                "InGameAccountSwitcher", "RealFirstPerson2", "ProportionalDestructionParticles", "PackModeMenu",
                "Modpack Configuration Checker", "MenuMobs", "MainMenuScale", "ResourceLoader", "scalingguis",
-               "CustomLoadingScreen", "CustomBackgrounds", "CustomSkinLoader_Forge", "CustomMainMenu", "Blur"
-               ]
+               "CustomLoadingScreen", "CustomBackgrounds", "CustomSkinLoader_Forge", "CustomMainMenu", "Blur"]
 
 count = 0
 
